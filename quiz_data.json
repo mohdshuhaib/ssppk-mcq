@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "question": "Which one of the following dynasties ruled Kerala ?",
+    "options": {
+      "A": "Chera Dynasty",
+      "B": "Maurya Dynasty",
+      "C": "Nanda Dynasty",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "Chera Dynasty"
+  },
+  {
+    "id": 2,
+    "question": "The United Kerala Convention of 1947 was held at",
+    "options": {
+      "A": "Thrissur",
+      "B": "Ottapalam",
+      "C": "Kochi",
+      "D": "Kozhikode"
+    },
+    "correct_answer_key": "A",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Thrissur"
+  },
+  {
+    "id": 3,
+    "question": "What is the area of Kerala state?",
+    "options": {
+      "A": "32,863 km²",
+      "B": "31,863 km²",
+      "C": "38,863 km²",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "C",
+    "category": "History & Geography",
+    "correct_answer_text": "38,863 km²"
+  },
+  {
+    "id": 4,
+    "question": "Who founded 'Prathyaksha Raksha Sabha'?",
+    "options": {
+      "A": "Pandit Karuppan",
+      "B": "TK Madhavan",
+      "C": "Poikayil Kumara Devan",
+      "D": "Ayyankali"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Poikayil Kumara Devan"
+  },
+  {
+    "id": 5,
+    "question": "What was the name of the first Governor of Kerala?",
+    "options": {
+      "A": "Bhagwan Sahay",
+      "B": "Burgula Ramkrishna Rao",
+      "C": "V. V. Giri",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "B",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Burgula Ramkrishna Rao"
+  },
+  {
+    "id": 6,
+    "question": "When was Kerala state formed ?",
+    "options": {
+      "A": "1 November 1956",
+      "B": "1 November 1957",
+      "C": "1 November 1958",
+      "D": "1 November 1959"
+    },
+    "correct_answer_key": "A",
+    "category": "Key Dates",
+    "correct_answer_text": "1 November 1956"
+  },
+  {
+    "id": 7,
+    "question": "How many Lok Sabha seats in the state of Kerala?",
+    "options": {
+      "A": "18",
+      "B": "30",
+      "C": "20",
+      "D": "23"
+    },
+    "correct_answer_key": "C",
+    "category": "History & Geography",
+    "correct_answer_text": "20"
+  },
+  {
+    "id": 8,
+    "question": "What is the total number of elected representatives in Kerala legislative assembly?",
+    "options": {
+      "A": "140",
+      "B": "120",
+      "C": "150",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "140"
+  },
+  {
+    "id": 9,
+    "question": "Name the first Chief Minister of Kerala State ?",
+    "options": {
+      "A": "E. M. S. Namboodiripad",
+      "B": "Ikkanda Warrier",
+      "C": "Panampilly Govinda Menon",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "E. M. S. Namboodiripad"
+  },
+  {
+    "id": 10,
+    "question": "The First Europeans to come to Kerala was?",
+    "options": {
+      "A": "French",
+      "B": "Portuguese",
+      "C": "Dutch",
+      "D": "British"
+    },
+    "correct_answer_key": "B",
+    "category": "History & Geography",
+    "correct_answer_text": "Portuguese"
+  },
+  {
+    "id": 11,
+    "question": "First Malayalam Dictionary was compiled by ?",
+    "options": {
+      "A": "Hermann Gundert",
+      "B": "Sreekanteswaram Padmanabha Pillai",
+      "C": "Mahakavi Vallathol Narayana Menon",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Hermann Gundert"
+  },
+  {
+    "id": 12,
+    "question": "Who was the first woman governor of Kerala ?",
+    "options": {
+      "A": "Jyothi Venkitachalam",
+      "B": "Fathima Beevi",
+      "C": "Sarojini Naidu",
+      "D": "Anna Chandy"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Jyothi Venkitachalam"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following explorers visited Kerala in 1498?",
+    "options": {
+      "A": "Vasco da Gama",
+      "B": "John Cabot",
+      "C": "Francis Drake",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Vasco da Gama"
+  },
+  {
+    "id": 14,
+    "question": "In which district of Kerala, the Silent Valley National Park is located?",
+    "options": {
+      "A": "Idukki",
+      "B": "Palakkad",
+      "C": "Kottayam",
+      "D": "Wayanad"
+    },
+    "correct_answer_key": "B",
+    "category": "History & Geography",
+    "correct_answer_text": "Palakkad"
+  },
+  {
+    "id": 15,
+    "question": "Which one city of Kerala is the major exporter of cashews in India?",
+    "options": {
+      "A": "Kollam",
+      "B": "Munnar",
+      "C": "Thrissur",
+      "D": "Kochi"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "Kollam"
+  },
+  {
+    "id": 16,
+    "question": "Who is the longest serving Chief Minister of Kerala ?",
+    "options": {
+      "A": "AK Anthony",
+      "B": "K Karunakaran",
+      "C": "VS Achuthanandan",
+      "D": "EK Nayanar"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "EK Nayanar"
+  },
+  {
+    "id": 17,
+    "question": "Kerala Land Reforms (Amendment) Act which put an end to the feudal system and ensured the rights of the tenants on land, came into force in",
+    "options": {
+      "A": "1957",
+      "B": "1975",
+      "C": "1970",
+      "D": "1978"
+    },
+    "correct_answer_key": "C",
+    "category": "Key Dates",
+    "correct_answer_text": "1970"
+  },
+  {
+    "id": 18,
+    "question": "The temple entry proclamation was associated with which of the following rulers ?",
+    "options": {
+      "A": "Swathi Thirunal",
+      "B": "Sree Moolam Thirunal",
+      "C": "Sri Chithira Thirunal",
+      "D": "Ayilyam Thirunal"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Sri Chithira Thirunal"
+  },
+  {
+    "id": 19,
+    "question": "Who was the founder of Atma Vidya sangam?",
+    "options": {
+      "A": "Kumara Guru Devan",
+      "B": "Ayyankali",
+      "C": "Chattampi Swamikal",
+      "D": "Vagbhatananda"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Vagbhatananda"
+  },
+  {
+    "id": 20,
+    "question": "Vaikom Satyagraha was started in the year",
+    "options": {
+      "A": "1924",
+      "B": "1929",
+      "C": "1932",
+      "D": "1935"
+    },
+    "correct_answer_key": "A",
+    "category": "Key Dates",
+    "correct_answer_text": "1924"
+  },
+  {
+    "id": 21,
+    "question": "Misrabhojanam was the idea popularised by",
+    "options": {
+      "A": "Mannathu Padmanabhan",
+      "B": "Swami Vivekanandan",
+      "C": "Sahodaran Ayyappan",
+      "D": "Brahmananda Swami Sivayogi"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Sahodaran Ayyappan"
+  },
+  {
+    "id": 22,
+    "question": "Who founded 'Advaita Ashram' at Aluva in 1913?",
+    "options": {
+      "A": "Chattampi Swamikal",
+      "B": "Ayya Vaikundar",
+      "C": "Thycaud Ayya",
+      "D": "Sri Narayana Guru"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Sri Narayana Guru"
+  },
+  {
+    "id": 23,
+    "question": "Who among the following is known as Kerala Gandhi ?",
+    "options": {
+      "A": "A.K. Gopalan",
+      "B": "C. Kesavan",
+      "C": "K. Kelappan",
+      "D": "Ayyankali"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "K. Kelappan"
+  },
+  {
+    "id": 24,
+    "question": "Plachimada Struggle was conducted against-------",
+    "options": {
+      "A": "Coca Cola Company",
+      "B": "Kannan Devan",
+      "C": "Pepsico",
+      "D": "Endosulfan"
+    },
+    "correct_answer_key": "A",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Coca Cola Company"
+  },
+  {
+    "id": 25,
+    "question": "Name the struggle conducted by SJVSV against the alienation of agricultural land",
+    "options": {
+      "A": "Kuttiadi",
+      "B": "Plachimada",
+      "C": "Chengara",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "C",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Chengara"
+  },
+  {
+    "id": 26,
+    "question": "Save Silent Valley, a social movement to protect silent valley was started in---",
+    "options": {
+      "A": "1965",
+      "B": "1973",
+      "C": "1984",
+      "D": "1996"
+    },
+    "correct_answer_key": "B",
+    "category": "Key Dates",
+    "correct_answer_text": "1973"
+  },
+  {
+    "id": 27,
+    "question": "Who was the head of the committee appointed by central government in 2010 to study the Western Ghats ecology",
+    "options": {
+      "A": "Sarkaria",
+      "B": "Madhav Gadgil",
+      "C": "Sadashiva Rao",
+      "D": "BK Thapar"
+    },
+    "correct_answer_key": "B",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Madhav Gadgil"
+  },
+  {
+    "id": 28,
+    "question": "Kudumbasree was launched in the year---",
+    "options": {
+      "A": "1982",
+      "B": "1988",
+      "C": "1992",
+      "D": "1998"
+    },
+    "correct_answer_key": "D",
+    "category": "Key Dates",
+    "correct_answer_text": "1998"
+  },
+  {
+    "id": 29,
+    "question": "The struggle that led to the downfall of first Communist Ministry in Kerala",
+    "options": {
+      "A": "Kayyur Revolt",
+      "B": "Vimochana Samaram",
+      "C": "Kuttiadi Struggle",
+      "D": "Abstention movement"
+    },
+    "correct_answer_key": "B",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Vimochana Samaram"
+  },
+  {
+    "id": 30,
+    "question": "Travancore State Congress was formed in",
+    "options": {
+      "A": "1921",
+      "B": "1928",
+      "C": "1938",
+      "D": "1945"
+    },
+    "correct_answer_key": "C",
+    "category": "Key Dates",
+    "correct_answer_text": "1938"
+  },
+  {
+    "id": 31,
+    "question": "Punnapra-Vayalar rebellion took place in the year------.",
+    "options": {
+      "A": "1940",
+      "B": "1941",
+      "C": "1942",
+      "D": "1946"
+    },
+    "correct_answer_key": "D",
+    "category": "Key Dates",
+    "correct_answer_text": "1946"
+  },
+  {
+    "id": 32,
+    "question": "Who became the first Chief Minister of Thiru-Cochi?",
+    "options": {
+      "A": "Ekkanda Warrier",
+      "B": "Pattom Thanu Pillai",
+      "C": "P. Govinda Menon",
+      "D": "TK Narayana Pillai"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "TK Narayana Pillai"
+  },
+  {
+    "id": 33,
+    "question": "First General Election of Thiru-Cochi was held in",
+    "options": {
+      "A": "1947",
+      "B": "1950",
+      "C": "1951",
+      "D": "1956"
+    },
+    "correct_answer_key": "C",
+    "category": "Key Dates",
+    "correct_answer_text": "1951"
+  },
+  {
+    "id": 34,
+    "question": "Who is known as the father of Islamic renaissance in Kerala ?",
+    "options": {
+      "A": "Vakkom Maulavi",
+      "B": "Abdul Rahman",
+      "C": "Thangal Kunju",
+      "D": "Muhammad Koya"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Vakkom Maulavi"
+  },
+  {
+    "id": 35,
+    "question": "Name the publication launched by Vakkom Maulavi",
+    "options": {
+      "A": "Al- Ameen",
+      "B": "Al Islam",
+      "C": "Aligarh",
+      "D": "Paschimodayam"
+    },
+    "correct_answer_key": "B",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Al Islam"
+  },
+  {
+    "id": 36,
+    "question": "Melsilakalapam was started by------",
+    "options": {
+      "A": "Nadars",
+      "B": "Ezhavas",
+      "C": "Tamil Brahmins",
+      "D": "Muslims"
+    },
+    "correct_answer_key": "A",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Nadars"
+  },
+  {
+    "id": 37,
+    "question": "In which year was the Nivarthana Agitation?",
+    "options": {
+      "A": "1922",
+      "B": "1923",
+      "C": "1932",
+      "D": "1933"
+    },
+    "correct_answer_key": "C",
+    "category": "Key Dates",
+    "correct_answer_text": "1932"
+  },
+  {
+    "id": 38,
+    "question": "Who among the following worked for the emancipation of Namboothiri women?",
+    "options": {
+      "A": "Parvathy Nemenimangalam",
+      "B": "Devika Antarjanam",
+      "C": "Ambika Devi",
+      "D": "KR Gouri"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Parvathy Nemenimangalam"
+  },
+  {
+    "id": 39,
+    "question": "Who was the founder of the newspaper 'Swadeshabhimani'?",
+    "options": {
+      "A": "Ramakrishnapillai",
+      "B": "GP Pillai",
+      "C": "K. Kelappan",
+      "D": "Vakkom Maulavi"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Vakkom Maulavi"
+  },
+  {
+    "id": 40,
+    "question": "Who is regarded to be the initiator of Malayali Memorial?",
+    "options": {
+      "A": "Dr. Palpu",
+      "B": "KB Menon",
+      "C": "GP Pillai",
+      "D": "AK Gopalan"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "GP Pillai"
+  },
+  {
+    "id": 41,
+    "question": "Which social reformer gave the slogan 'No caste, No religion, No God for man'?",
+    "options": {
+      "A": "KP Vallon",
+      "B": "C Krishnan",
+      "C": "Poikayil Yohannan",
+      "D": "Sahodaran Ayyappan"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Sahodaran Ayyappan"
+  },
+  {
+    "id": 42,
+    "question": "Electricity Agitation against the distribution of electricity in Cochi to a private company was started in the year----",
+    "options": {
+      "A": "1912",
+      "B": "1922",
+      "C": "1936",
+      "D": "1946"
+    },
+    "correct_answer_key": "C",
+    "category": "Key Dates",
+    "correct_answer_text": "1936"
+  },
+  {
+    "id": 43,
+    "question": "Who led the Kallumala (Stone Ornament) Agitation ?",
+    "options": {
+      "A": "Ayyankali",
+      "B": "C Krishnan",
+      "C": "Pandit K.P. Karuppan",
+      "D": "Sahodaran Ayyappan"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Ayyankali"
+  },
+  {
+    "id": 44,
+    "question": "Who has been hailed as the 'Father of Modern Kerala Renaissance'?",
+    "options": {
+      "A": "K Kelappan",
+      "B": "EMS Namboothiripad",
+      "C": "VT Bhattathiripad",
+      "D": "Sree Narayana Guru"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Sree Narayana Guru"
+  },
+  {
+    "id": 45,
+    "question": "Early inhabitants of Kerala belonged to the last phase of",
+    "options": {
+      "A": "Middle Stone Age",
+      "B": "Early Stone Age",
+      "C": "Iron Age",
+      "D": "Copper Age"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "Middle Stone Age"
+  },
+  {
+    "id": 46,
+    "question": "The first recorded history of Kerala seems inside the inscriptions of",
+    "options": {
+      "A": "Bindusara",
+      "B": "Ashoka",
+      "C": "Pulakesin",
+      "D": "Raj Raja I"
+    },
+    "correct_answer_key": "B",
+    "category": "History & Geography",
+    "correct_answer_text": "Ashoka"
+  },
+  {
+    "id": 47,
+    "question": "Which was the main centre of Salt Satyagraha in Kerala?",
+    "options": {
+      "A": "Malabar",
+      "B": "Cochin",
+      "C": "Travancore",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "Malabar"
+  },
+  {
+    "id": 48,
+    "question": "The earliest trade union in Kerala is",
+    "options": {
+      "A": "CITU",
+      "B": "TLS",
+      "C": "TLA",
+      "D": "BMS"
+    },
+    "correct_answer_key": "C",
+    "category": "Movements & Politics",
+    "correct_answer_text": "TLA"
+  },
+  {
+    "id": 49,
+    "question": "Leader of Adivasi Gothra Maha Sabha",
+    "options": {
+      "A": "C. K. Janu",
+      "B": "K. C. Rosakkutti",
+      "C": "M. Kamalam",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "C. K. Janu"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following organizations working for the welfare of queer community?",
+    "options": {
+      "A": "Sahayathrika",
+      "B": "Sahayatra",
+      "C": "Sahaya",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Sahayathrika"
+  },
+  {
+    "id": 51,
+    "question": "In which year the Presidential rule was enforced for the first time in Kerala State ?",
+    "options": {
+      "A": "1960",
+      "B": "1959",
+      "C": "1962",
+      "D": "1964"
+    },
+    "correct_answer_key": "B",
+    "category": "Key Dates",
+    "correct_answer_text": "1959"
+  },
+  {
+    "id": 52,
+    "question": "The People's Plan Campaign was introduced in the year",
+    "options": {
+      "A": "1994",
+      "B": "1980",
+      "C": "1996",
+      "D": "1993"
+    },
+    "correct_answer_key": "C",
+    "category": "Key Dates",
+    "correct_answer_text": "1996"
+  },
+  {
+    "id": 53,
+    "question": "Name the Dewan of Travancore associated with the 'American Model' administration?",
+    "options": {
+      "A": "Sir. C. P. Ramaswami Iyer",
+      "B": "Sir. C. P. Ramaswami Iyyankar",
+      "C": "Sir. C. P. Sankaran Nair",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Sir. C. P. Ramaswami Iyer"
+  },
+  {
+    "id": 54,
+    "question": "The first Land Reform Bill of the State of Kerala was introduced by",
+    "options": {
+      "A": "E. M. Sankaran Namboothiripad",
+      "B": "T. V. Thomas",
+      "C": "K. V. Thomas",
+      "D": "K. R. Gauri"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "K. R. Gauri"
+  },
+  {
+    "id": 55,
+    "question": "When national emergency was in operation, the Chief Minister of Kerala was",
+    "options": {
+      "A": "Oommen Chandy",
+      "B": "EK Nayanar",
+      "C": "E.M. Sankaran Namboothiripad",
+      "D": "C. Achutha Menon"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "C. Achutha Menon"
+  },
+  {
+    "id": 56,
+    "question": "The Nair Service Society was founded by",
+    "options": {
+      "A": "Sree Narayana Guru",
+      "B": "Chattampi Swamikal",
+      "C": "Mannath Padmanaabhan",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Mannath Padmanaabhan"
+  },
+  {
+    "id": 57,
+    "question": "Dutch power came to an end in Kerala with the battle of",
+    "options": {
+      "A": "Kolachel",
+      "B": "Talikotta",
+      "C": "Kayamkulam",
+      "D": "Chaliyam"
+    },
+    "correct_answer_key": "A",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Kolachel"
+  },
+  {
+    "id": 58,
+    "question": "Kayyur riot was broke out in the year-------",
+    "options": {
+      "A": "1924",
+      "B": "1931",
+      "C": "1941",
+      "D": "1944"
+    },
+    "correct_answer_key": "C",
+    "category": "Key Dates",
+    "correct_answer_text": "1941"
+  },
+  {
+    "id": 59,
+    "question": "The land was owned by temples Known as",
+    "options": {
+      "A": "Devaswom",
+      "B": "Pattam",
+      "C": "Cherikkal",
+      "D": "Kanam"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "Devaswom"
+  },
+  {
+    "id": 60,
+    "question": "The place in Kerala where Naval Academy is situated",
+    "options": {
+      "A": "Ezhimala",
+      "B": "Marayoor",
+      "C": "Thumba",
+      "D": "Periya"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "Ezhimala"
+  },
+  {
+    "id": 61,
+    "question": "Who was the first opposition leader of Kerala legislative assembly ?",
+    "options": {
+      "A": "P.T.Chacko",
+      "B": "Karunakaran",
+      "C": "EMS Namboothiripad",
+      "D": "AK Antony"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "P.T.Chacko"
+  },
+  {
+    "id": 62,
+    "question": "'Mamankom' was celebrated at ?",
+    "options": {
+      "A": "Thirunavaya",
+      "B": "Thiruvalla",
+      "C": "Thiruvananthapuram",
+      "D": "Thiruchirapally"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "Thirunavaya"
+  },
+  {
+    "id": 63,
+    "question": "The name of the river that flows through the Silent Valley in Kerala ?",
+    "options": {
+      "A": "Kunthipuzha",
+      "B": "Periyar",
+      "C": "Chaliyar",
+      "D": "Pamba"
+    },
+    "correct_answer_key": "A",
+    "category": "History & Geography",
+    "correct_answer_text": "Kunthipuzha"
+  },
+  {
+    "id": 64,
+    "question": "Who was the first education minister of Kerala State ?",
+    "options": {
+      "A": "KR Gouri",
+      "B": "Joseph Mundassery",
+      "C": "TV Thomas",
+      "D": "EMS Namboothiripad"
+    },
+    "correct_answer_key": "B",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Joseph Mundassery"
+  },
+  {
+    "id": 65,
+    "question": "The first Non Communist Chief Minister of Kerala ?",
+    "options": {
+      "A": "Pattom Thanu Pillai",
+      "B": "Omman Chandy",
+      "C": "AK Antony",
+      "D": "EK Nayanar"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Pattom Thanu Pillai"
+  },
+  {
+    "id": 66,
+    "question": "Sree Moolam Praja Sabha (Sree Moolam Popular Assembly) was formed in",
+    "options": {
+      "A": "1888",
+      "B": "1940",
+      "C": "1909",
+      "D": "1904"
+    },
+    "correct_answer_key": "D",
+    "category": "Key Dates",
+    "correct_answer_text": "1904"
+  },
+  {
+    "id": 67,
+    "question": "Who is the first chief minister from Kerala to be re-elected after completing a full term (five years) in office?",
+    "options": {
+      "A": "EK Nayanar",
+      "B": "Omman Chandy",
+      "C": "Pinarayi Vijayan",
+      "D": "VS Achutanandan"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Pinarayi Vijayan"
+  },
+  {
+    "id": 68,
+    "question": "Which party emerged due to the split of Communist Party of India in 1964?",
+    "options": {
+      "A": "RJD",
+      "B": "Kerala Congress",
+      "C": "Janata Party",
+      "D": "CPI(M)"
+    },
+    "correct_answer_key": "D",
+    "category": "Movements & Politics",
+    "correct_answer_text": "CPI(M)"
+  },
+  {
+    "id": 69,
+    "question": "The Government of Kerala enacted the Kerala Panchayati Raj and Municipality Act in which year ?",
+    "options": {
+      "A": "1993",
+      "B": "1994",
+      "C": "1995",
+      "D": "1996"
+    },
+    "correct_answer_key": "B",
+    "category": "Key Dates",
+    "correct_answer_text": "1994"
+  },
+  {
+    "id": 70,
+    "question": "--- is a programme for bridging the digital divide, promoting digital literacy and connecting communities in Kerala",
+    "options": {
+      "A": "Acharya",
+      "B": "Abaya",
+      "C": "Asraya",
+      "D": "Akshaya"
+    },
+    "correct_answer_key": "D",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Akshaya"
+  },
+  {
+    "id": 71,
+    "question": "Who among the following is the editor of Mitavadi ?",
+    "options": {
+      "A": "A.K. Gopalan",
+      "B": "C Krishnan",
+      "C": "K. Kelappan",
+      "D": "Ayyankali"
+    },
+    "correct_answer_key": "B",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "C Krishnan"
+  },
+  {
+    "id": 72,
+    "question": "Which one of the following was a Christian missionary group in Kerala ?",
+    "options": {
+      "A": "LMS",
+      "B": "CMS",
+      "C": "BEM",
+      "D": "All the above"
+    },
+    "correct_answer_key": "D",
+    "category": "Movements & Politics",
+    "correct_answer_text": "All the above"
+  },
+  {
+    "id": 73,
+    "question": "Which one of the following customs was abolished by Sree Kerala Varma?",
+    "options": {
+      "A": "Pulappedi",
+      "B": "Thalikettukalyanam",
+      "C": "Untouchability",
+      "D": "Sati"
+    },
+    "correct_answer_key": "A",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Pulappedi"
+  },
+  {
+    "id": 74,
+    "question": "'Wagon Tragedy' was in the year",
+    "options": {
+      "A": "1921",
+      "B": "1922",
+      "C": "1931",
+      "D": "1932"
+    },
+    "correct_answer_key": "A",
+    "category": "Key Dates",
+    "correct_answer_text": "1921"
+  },
+  {
+    "id": 75,
+    "question": "The first assembly election in Kerala state was held in",
+    "options": {
+      "A": "1957",
+      "B": "1T959",
+      "C": "1961",
+      "D": "1963"
+    },
+    "correct_answer_key": "A",
+    "category": "Key Dates",
+    "correct_answer_text": "1957"
+  },
+  {
+    "id": 76,
+    "question": "Which of the following organizations aimed at women's welfare?",
+    "options": {
+      "A": "Sahaja",
+      "B": "Sahayathrika",
+      "C": "Anweshi",
+      "D": "All of the above"
+    },
+    "correct_answer_key": "D",
+    "category": "Movements & Politics",
+    "correct_answer_text": "All of the above"
+  },
+  {
+    "id": 77,
+    "question": "Leader of Sadhu Jana Vimochana Samyukta Vedi ?",
+    "options": {
+      "A": "C. K. Janu",
+      "B": "Laha Gopalan",
+      "C": "M. Mukundan",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "B",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Laha Gopalan"
+  },
+  {
+    "id": 78,
+    "question": "On which of the following days Kerala statehood is observed ?",
+    "options": {
+      "A": "November 1st",
+      "B": "December 1st",
+      "C": "August 1st",
+      "D": "October 1st"
+    },
+    "correct_answer_key": "A",
+    "category": "Movements & Politics",
+    "correct_answer_text": "November 1st"
+  },
+  {
+    "id": 79,
+    "question": "The famous Kerala born Indian philosopher of 9th cent AD",
+    "options": {
+      "A": "Sankaraachaarya",
+      "B": "Sree Narayana Guru",
+      "C": "Kautilya",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Sankaraachaarya"
+  },
+  {
+    "id": 80,
+    "question": "The basic issue mentioned in Malayali Memorial was",
+    "options": {
+      "A": "Religious rights",
+      "B": "Right to property",
+      "C": "Intercaste marriage",
+      "D": "Government jobs"
+    },
+    "correct_answer_key": "D",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Government jobs"
+  },
+  {
+    "id": 81,
+    "question": "The first organisation of the Pariah community in Travancore was?",
+    "options": {
+      "A": "Brahma Prathyaksha Sadhujana Paripalana Sangam",
+      "B": "Yogakshema Sabha",
+      "C": "SNDP",
+      "D": "NSS"
+    },
+    "correct_answer_key": "A",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Brahma Prathyaksha Sadhujana Paripalana Sangam"
+  },
+  {
+    "id": 82,
+    "question": "Major organization which gave leadership to Muthanga Land Struggle is",
+    "options": {
+      "A": "Sadhu Jana Vimochana Munnani",
+      "B": "Kerala Harijans Federation",
+      "C": "Adivasi Gothra Maha Sabha",
+      "D": "Kerala Sastra Sahitya Parishad"
+    },
+    "correct_answer_key": "C",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Adivasi Gothra Maha Sabha"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following programmes was to reduce and control environmental pollution to a certain extent?",
+    "options": {
+      "A": "Akshaya",
+      "B": "Ashraya",
+      "C": "Janasree",
+      "D": "Haritha Keralam"
+    },
+    "correct_answer_key": "D",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Haritha Keralam"
+  },
+  {
+    "id": 84,
+    "question": "Name of the toxic pesticide that poisoned almost everything on the surface and beneath the earth in Kasargod?",
+    "options": {
+      "A": "Ammonia",
+      "B": "DDT",
+      "C": "Endosulfan",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "C",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Endosulfan"
+  },
+  {
+    "id": 85,
+    "question": "Ruler of a 'Nadu' in medieval Kerala is known as",
+    "options": {
+      "A": "Nadu Thalaivan",
+      "B": "Nadu Pramukh",
+      "C": "Naduvazhi",
+      "D": "Mooppan"
+    },
+    "correct_answer_key": "C",
+    "category": "History & Geography",
+    "correct_answer_text": "Naduvazhi"
+  },
+  {
+    "id": 86,
+    "question": "Who opined that Kerala is a mad house of castes",
+    "options": {
+      "A": "Swami Vivekananda",
+      "B": "Gandhiji",
+      "C": "Sree Narayana Guru",
+      "D": "Nehru"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Swami Vivekananda"
+  },
+  {
+    "id": 87,
+    "question": "National Democratic Alliance (NDA) in Kerala is led by",
+    "options": {
+      "A": "CPM",
+      "B": "Kerala Congress",
+      "C": "BJP",
+      "D": "Indian National Congress"
+    },
+    "correct_answer_key": "C",
+    "category": "Movements & Politics",
+    "correct_answer_text": "BJP"
+  },
+  {
+    "id": 88,
+    "question": "What is SPEM?",
+    "options": {
+      "A": "Societal Pollution Eradication Mission",
+      "B": "State Pollution Eradication Mission",
+      "C": "Social Poverty Eradication Mission",
+      "D": "State Poverty Eradication Mission"
+    },
+    "correct_answer_key": "D",
+    "category": "Movements & Politics",
+    "correct_answer_text": "State Poverty Eradication Mission"
+  },
+  {
+    "id": 89,
+    "question": "Who was the Chief Minister of Kerala during the period 2011-2016 ?",
+    "options": {
+      "A": "EK Nayanar",
+      "B": "Omman Chandy",
+      "C": "Pinarayi Vijayan",
+      "D": "None of the above"
+    },
+    "correct_answer_key": "B",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Omman Chandy"
+  },
+  {
+    "id": 90,
+    "question": "When was bicameralism introduced in Travancore?",
+    "options": {
+      "A": "1925",
+      "B": "1932",
+      "C": "1935",
+      "D": "1942"
+    },
+    "correct_answer_key": "B",
+    "category": "Key Dates",
+    "correct_answer_text": "1932"
+  },
+  {
+    "id": 91,
+    "question": "Which among the following is a feature of Kerala Model of Development?",
+    "options": {
+      "A": "High Per Capita Income",
+      "B": "High infant mortality rate",
+      "C": "High standard of living",
+      "D": "High economic investment"
+    },
+    "correct_answer_key": "C",
+    "category": "Movements & Politics",
+    "correct_answer_text": "High standard of living"
+  },
+  {
+    "id": 92,
+    "question": "The Guruvayur temple was thrown open to Harijans only after ?",
+    "options": {
+      "A": "1940",
+      "B": "1942",
+      "C": "1944",
+      "D": "1946"
+    },
+    "correct_answer_key": "D",
+    "category": "Key Dates",
+    "correct_answer_text": "1946"
+  },
+  {
+    "id": 93,
+    "question": "The merger of Travancore and Cochin was realized in the year?",
+    "options": {
+      "A": "1949",
+      "B": "1956",
+      "C": "1950",
+      "D": "1947"
+    },
+    "correct_answer_key": "A",
+    "category": "Key Dates",
+    "correct_answer_text": "1949"
+  },
+  {
+    "id": 94,
+    "question": "The first member of Pulaya community to be nominated to Travancore Legislative Assembly",
+    "options": {
+      "A": "T.T.Kesavan Sasthri",
+      "B": "P.C.Chanchen",
+      "C": "Pandit Karuppan",
+      "D": "Ayyankali"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Ayyankali"
+  },
+  {
+    "id": 95,
+    "question": "Name the prime minister who visited Kerala during the Liberation Struggle ?",
+    "options": {
+      "A": "Indira Gandhi",
+      "B": "Lal Bahadur Shastri",
+      "C": "Jawaharlal Nehru",
+      "D": "Morarjee Desai"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Jawaharlal Nehru"
+  },
+  {
+    "id": 96,
+    "question": "The founder of Sambavar Sangam",
+    "options": {
+      "A": "Pazhoor Raman Chennan",
+      "B": "Ayyankali",
+      "C": "Chattampi Swamikal",
+      "D": "Pandit Karuppan"
+    },
+    "correct_answer_key": "A",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Pazhoor Raman Chennan"
+  },
+  {
+    "id": 97,
+    "question": "The founder of All Travancore Muslim Mahajanasabha",
+    "options": {
+      "A": "Mohammed Hammadani",
+      "B": "Abdul Rahman",
+      "C": "Thangal Kunju",
+      "D": "Vakkom Abdul Khadar Moulavi"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Vakkom Abdul Khadar Moulavi"
+  },
+  {
+    "id": 98,
+    "question": "Cochin Pulaya Maha Sabha was founded by",
+    "options": {
+      "A": "Ayyankali",
+      "B": "T.T.Kesavan Sasthri",
+      "C": "Pandit Karuppan",
+      "D": "None of these"
+    },
+    "correct_answer_key": "C",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Pandit Karuppan"
+  },
+  {
+    "id": 99,
+    "question": "The only foreign country visited by Sree Narayana Guru",
+    "options": {
+      "A": "Nepal",
+      "B": "Bhutan",
+      "C": "Burma",
+      "D": "Sri Lanka"
+    },
+    "correct_answer_key": "D",
+    "category": "Social Reformers & Leaders",
+    "correct_answer_text": "Sri Lanka"
+  },
+  {
+    "id": 100,
+    "question": "The motto of Kerala Sasthra Sahitya Parishad",
+    "options": {
+      "A": "Knowledge is power",
+      "B": "Sasthram Samoohika Viplavathinu",
+      "C": "Vayichu Valaruka",
+      "D": "Sakshara Keralam Sundara Keralam"
+    },
+    "correct_answer_key": "B",
+    "category": "Movements & Politics",
+    "correct_answer_text": "Sasthram Samoohika Viplavathinu"
+  }
+]
