@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kerala PSC Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="quiz-container">
+        <div id="quiz-header">
+            <h2>Kerala GK Quiz</h2>
+            <div id="quiz-nav">
+                <label for="question-nav-dropdown">Go to:</label>
+                <select id="question-nav-dropdown"></select>
+                <button id="refresh-btn">Shuffle & Reset</button>
+            </div>
+        </div>
+        
+        <div id="question-card">
+            <p id="question-text">Loading question...</p>
+            <ul id="options-container">
+                </ul>
+        </div>
+        
+        <div id="feedback-section">
+            <div id="result-feedback"></div>
+            <div id="related-topic"></div>
+        </div>
+        
+        <button id="next-btn">Next Question</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
